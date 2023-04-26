@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node.Js**
 
-- 👨‍💻 All of my projects are available at [ashuachua.com](ashuachua.com)
+- 👨‍💻 All of my projects are available at [ashuachua.com](https://www.ashuachua.com)
 
 - 💬 Ask me about **python, javascript, typescript, react and django**
 
